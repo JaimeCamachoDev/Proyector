@@ -12,14 +12,4 @@ _**Efecto de proyector con dispersión luminosa. Simula un haz de luz intenso, i
    
 <footer>
    
-## Después de crear el repositorio desde la plantilla, asegúrate de revisar lo siguiente:
-
-### 📸 Social Preview
-- [ ] Sube una imagen `preview.png` personalizada en `Settings → Social Preview`.
-
-- [ ] Confirmar que **Releases** sigue activado ✅
-
-- [ ] Dejar Topics necesarios.
-
-
 </footer>
